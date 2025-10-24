@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/Aburv-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/syshya">
-    <img src="https://img.shields.io/badge/Sysyhya-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Syshya-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
 </p>
 
